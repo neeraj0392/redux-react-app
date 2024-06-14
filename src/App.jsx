@@ -10,6 +10,7 @@ export default function App() {
   return (
     <div>
       <NavBar />
+      Added New Change
       <div className="my-0 mx-auto p-4 max-w-[140rem] md:p-12">
         <Products />
       </div>
